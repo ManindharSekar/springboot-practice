@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\DELL\Documents\ManindharBZF\MyOldFiles\Share\Spring Boot projects\TaskManagementSystem"/>
+			<item value="C:\Users\Manju\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\todo-management-spring-boot"/>
+			<item value="C:\Users\Manju\Downloads\spring-jsp-demo1"/>
+			<item value="C:\Users\Manju\Downloads\spring-jsp-demo (1)"/>
+			<item value="C:\Users\Manju\Downloads\spring-jsp-demo"/>
+			<item value="C:\Users\Manju\Downloads\TaskManagementSystem"/>
+			<item value="C:\Users\Manju\E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
